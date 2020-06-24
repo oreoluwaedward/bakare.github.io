@@ -1,0 +1,43 @@
+body{
+	background-color: grey;
+}
+
+h1{
+	border: 2px solid pink;
+	background-color: green;
+	color: white;
+	border-radius: 20px;
+	 box-shadow: 4px 4px 5px #888888;
+	 padding: 1px;ss
+     transition: all 1s;
+     text-align: center;
+     width: 200px;
+     
+
+     margin-left: 40px;
+
+
+}
+h1:hover{
+	background-color: blue;
+	transform:scale(1.1);
+}
+img{
+	width: 140px;
+	height: 135px;
+	border-radius: 80px;
+	transition: all 9
+
+	s;
+	box-shadow: 4px 4px 5px 5px;
+}
+img:hover{
+	transform:scale(1.1);
+}
+a{
+	border-color: 2px dashed pink;
+	text-decoration: none;
+	background-color: magenta;
+	border-radius:15px;
+
+}
